@@ -1,7 +1,7 @@
 # Peakhour-Problem
 This is a Peak-hour Problem selected from http://www.sharjah.ac.ae/en/Media/Conferences/ME-GPC/Documents/gpc17%20Problem%20Set.pdf
 
-You can see the full problem description from the above link..
+You can see the full problem description from the link above..
 The program is about calculating the peak throughput over all the possible time frames of length T.
 
 #Input Format
